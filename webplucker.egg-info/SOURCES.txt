@@ -1,0 +1,11 @@
+README.md
+setup.py
+webplucker/__init__.py
+webplucker.egg-info/PKG-INFO
+webplucker.egg-info/SOURCES.txt
+webplucker.egg-info/dependency_links.txt
+webplucker.egg-info/requires.txt
+webplucker.egg-info/top_level.txt
+webplucker/req_handler/__init__.py
+webplucker/req_handler/agents/__init__.py
+webplucker/req_handler/extractdata/__init__.py
