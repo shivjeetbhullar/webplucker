@@ -9,3 +9,4 @@ webplucker.egg-info/top_level.txt
 webplucker/req_handler/__init__.py
 webplucker/req_handler/agents/__init__.py
 webplucker/req_handler/extractdata/__init__.py
+webplucker/req_handler/extractdata/config.py
