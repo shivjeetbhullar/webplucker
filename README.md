@@ -7,3 +7,5 @@ Websites built in react, angular, etc is also possible to scrape using webplucke
 </center>
 
 
+<img alt="WebPlucker" src="https://raw.githubusercontent.com/shivjeetbhullar/webplucker/main/ic_launcher.png">
+
