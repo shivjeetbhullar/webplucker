@@ -4,6 +4,8 @@ Websites built in react, angular, etc is also possible to scrape using webplucke
 
 <p align="center">
   
-<img alt="WebPlucker" src="https://raw.githubusercontent.com/shivjeetbhullar/webplucker/main/ic_launcher.png">
+<img title="WebPlucker"  alt="WebPlucker" src="https://raw.githubusercontent.com/shivjeetbhullar/webplucker/main/ic_launcher.png">
+<br/>
+WebPlucker
   
 </p>
